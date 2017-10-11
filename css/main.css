@@ -1,18 +1,18 @@
 html {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   background-color: #c9b5ab;
   line-height: 1.5;
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #3f1622;
   font-size: 1.5rem;
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #3f1622;
   font-size: 1.5rem;
@@ -30,13 +30,14 @@ img {
 
 a,
 a:link {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #8f2440;
   text-decoration: none;
 }
 
 a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 .figcap {
@@ -52,10 +53,11 @@ a:hover {
 .quote {
   font-size: 1.5rem;
   font-style: italic;
+  font-weight: normal;
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 .commonlist {
@@ -71,6 +73,6 @@ cite {
 }
 
 .taglist {
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: circle;
 }
