@@ -1,0 +1,21 @@
+html {
+  font-family: 'PT Serif', serif;
+  background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+title {
+  color: #3f1622;
+}
+
+img {
+  width: 100%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+
+}
