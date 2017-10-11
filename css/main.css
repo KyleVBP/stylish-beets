@@ -4,18 +4,73 @@ html {
   line-height: 1.5;
 }
 
-title {
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
   color: #3f1622;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  color: #3f1622;
+  font-size: 1.5rem;
 }
 
 img {
   width: 100%;
 }
 
+.navlist {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+a,
 a:link {
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
   text-decoration: none;
 }
 
 a:hover {
+  color: #3f1622;
+}
 
+.figcap {
+  font-style: italic;
+  text-align: center;
+}
+
+.pbold {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+cite {
+  font-size: 0.8rem;
+}
+
+.commonlist {
+  list-style-type: lower-greek;
+}
+
+.nutrip {
+  font-weight: bold;
+}
+
+.serving {
+  font-style: italic;
+}
+
+.taglist {
+  font-size: 0.8rem;
+  list-style-type: circle;
 }
